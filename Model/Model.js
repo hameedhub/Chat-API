@@ -1,0 +1,7 @@
+// Model
+
+class Model {
+    constructor(){
+        
+    }
+}
